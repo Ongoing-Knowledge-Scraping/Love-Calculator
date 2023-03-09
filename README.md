@@ -1,6 +1,10 @@
 # Love-Calculator
 Using words 'true' &amp; 'love' comparing the letters in couple's names to letters in true &amp; love to calculate percentage of love for the couple
 
+## Love Calculator ##
+
+![Love Calculator](<https://github.com/Ongoing-Knowledge-Scraping/Pizza-Order-Program/blob/main/Love-Calculator.gif> "Running the code")
+
 ## View on Replit ##
 https://replit.com/@kpatzer/Love-Calculator
 
