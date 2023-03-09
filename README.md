@@ -3,7 +3,7 @@ Using words 'true' &amp; 'love' comparing the letters in couple's names to lette
 
 ## Love Calculator ##
 
-![Love Calculator](<https://github.com/Ongoing-Knowledge-Scraping/Pizza-Order-Program/blob/main/Love-Calculator.gif> "Running the code")
+![Love Calculator](<https://github.com/Ongoing-Knowledge-Scraping/Love-Calculator/blob/main/The-Love-Calculator.gif> "Running the code")
 
 ## View on Replit ##
 https://replit.com/@kpatzer/Love-Calculator
